@@ -1,0 +1,23 @@
+{
+  "name": "rich-presence",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ./src/app.js"
+  },
+  "author": "voltz",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voltzisnasty/rich-presence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/voltzisnasty/rich-presence/issues"
+  },
+  "homepage": "https://github.com/voltzisnasty/rich-presence#readme",
+  "description": ""
+}
